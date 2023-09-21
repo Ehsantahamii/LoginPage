@@ -1,0 +1,9 @@
+/* global css */
+body{
+  min-height: 100vh;
+  max-width: 100%;
+  box-sizing: border-box;
+  background: #5b60a8;
+  overflow-x: hidden;
+
+}
